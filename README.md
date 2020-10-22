@@ -1,5 +1,7 @@
 # myPortfolio
 
+<a = href="https://adamcassidy.github.io">https://adamcassidy.github.io</a>
+
 <img src="https://user-images.githubusercontent.com/43080428/94694595-0181c880-0303-11eb-8f4b-ba93ecbeca20.png" alt="logo"  width="300"/>
 
 A responsive social media forum that's focused on discussion of constructive feedback. It was made with Vue.js and Firebase. It uses Vuex to manage state and makes RESTful API calls to Firebase's realtime database where it holds user's content. It uses Firebase's authentication service and funnels alert messages from them. The app also uses custom form validation of its own to get the full authentication flow. Users can upload avatars, or images to their posts, and they are kept in Firebase storage.
